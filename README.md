@@ -1,12 +1,17 @@
-# React + Vite
+📚 Top Courses App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Top Courses App is a React-based project ⚛️ that displays a collection of online courses fetched from an API 🌐. Users can easily browse courses by switching between different category tabs.
 
-Currently, two official plugins are available:
+✨ Features:
+🏷️ Tabs for All, Development, Business, Design, Lifestyle
+🔄 Dynamic filtering of courses based on the selected tab
+🌐 Data fetched from an API for real-time content
+🎨 Clean and responsive UI for a smooth browsing experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is perfect for practicing React Hooks, state management, and API integration while building a practical course filtering system.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+⚛️ React – For building the U
+🪝 React Hooks (useState, useEffect) – For managing state & side effects
+🎨 Tailwind CSS – For styling (if you used it)
+🌐 API Fetching – For dynamic course data
